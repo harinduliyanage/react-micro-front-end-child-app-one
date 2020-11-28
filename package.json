@@ -1,0 +1,26 @@
+{
+  "name": "child-app-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harinduliyanage/react-micro-front-end-child-app-one.git"
+  },
+  "author": "harindu.sul@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harinduliyanage/react-micro-front-end-child-app-one/issues"
+  },
+  "homepage": "https://github.com/harinduliyanage/react-micro-front-end-child-app-one#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "nodemon": "^2.0.6",
+    "webpack": "^5.8.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
